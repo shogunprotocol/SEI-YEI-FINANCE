@@ -1,0 +1,19 @@
+{
+  "name": "YEI FINANCE Protocol",
+  "scripts": {
+    "compile": "npx hardhat compile",
+    "test": "npx hardhat test",
+    "test:yei": "npx hardhat test test/YeiFinanceProtocol.test.ts",
+    "deploy:yei": "npx hardhat run scripts/deploy-vault-system.ts --network sei_testnet",
+    "deploy:local": "npx hardhat run scripts/deploy-vault-system.ts --network hardhat"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "hardhat": "^2.24.1"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^1.2.0",
+    "@openzeppelin/contracts": "^5.3.0",
+    "dotenv": "^16.5.0"
+  }
+}
