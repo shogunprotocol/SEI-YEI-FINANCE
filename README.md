@@ -29,10 +29,10 @@ YEI FINANCE Protocol is live on SEI Testnet (Chain ID: 1328). Use these verified
 
 | Contract                    | Address                                                                                                                 | Description                                        |
 | --------------------------- | ----------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------- |
-| **YEI Base Token (YBASE)**  | [`0xAA9A96863075B4E83D52CB7feADE77f097d0eFEC`](https://seitrace.com/address/0xAA9A96863075B4E83D52CB7feADE77f097d0eFEC) | Underlying asset token for deposits and lending    |
-| **YEI Finance Token (YEI)** | [`0xB25bF8ed41eb8eB325859b2Afb66143076Ea5E9B`](https://seitrace.com/address/0xB25bF8ed41eb8eB325859b2Afb66143076Ea5E9B) | Protocol reward token for liquidity providers      |
-| **YEI FINANCE Protocol**    | [`0xE2deB1946345F085a94F66d7014E7Fc1d76c6F12`](https://seitrace.com/address/0xE2deB1946345F085a94F66d7014E7Fc1d76c6F12) | Main protocol for deposits, loans, and flash loans |
-| **YEI FINANCE Vault**       | [`0x16474D31Ac1302994cF3C5001DE24EdB699a306f`](https://seitrace.com/address/0x16474D31Ac1302994cF3C5001DE24EdB699a306f) | ERC4626 vault with 10% APY and 0.5% withdrawal fee |
+| **YEI Base Token (YBASE)**  | [`0xAA9A96863075B4E83D52CB7feADE77f097d0eFEC`](https://testnet.seitrace.com/address/0xAA9A96863075B4E83D52CB7feADE77f097d0eFEC) | Underlying asset token for deposits and lending    |
+| **YEI Finance Token (YEI)** | [`0xB25bF8ed41eb8eB325859b2Afb66143076Ea5E9B`](https://testnet.seitrace.com/address/0xB25bF8ed41eb8eB325859b2Afb66143076Ea5E9B) | Protocol reward token for liquidity providers      |
+| **YEI FINANCE Protocol**    | [`0xE2deB1946345F085a94F66d7014E7Fc1d76c6F12`](https://testnet.seitrace.com/address/0xE2deB1946345F085a94F66d7014E7Fc1d76c6F12) | Main protocol for deposits, loans, and flash loans |
+| **YEI FINANCE Vault**       | [`0x16474D31Ac1302994cF3C5001DE24EdB699a306f`](https://testnet.seitrace.com/address/0x16474D31Ac1302994cF3C5001DE24EdB699a306f) | ERC4626 vault with 10% APY and 0.5% withdrawal fee |
 
 ### 🔧 Protocol Configuration
 
